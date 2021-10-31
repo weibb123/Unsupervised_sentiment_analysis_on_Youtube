@@ -1,5 +1,6 @@
 # Sentiment Analysis on Youtube Comments
-Put results here!
+<img width="388" alt="Screen Shot 2021-10-31 at 2 15 43 AM" src="https://user-images.githubusercontent.com/84426364/139570724-93d6dccb-4271-4e1c-8bc9-c899c0d11e33.png">
+
 
 <b> Create your own csv file from youtube video comment </b>
 
