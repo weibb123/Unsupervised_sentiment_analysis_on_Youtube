@@ -4,6 +4,11 @@
 <img width="388" alt="Screen Shot 2021-10-31 at 2 25 12 AM" src="https://user-images.githubusercontent.com/84426364/139570988-99c86bd9-8f26-43a8-a9aa-67d3d56be83b.png">
 
 <h2> Data analysis on 3Blue1Brown's videos and 2020 Presidential Debate </h2>
+<img width="388" alt="Screen Shot 2021-11-02 at 4 56 01 PM" src="https://user-images.githubusercontent.com/84426364/139952010-e16b8d0d-24c4-484f-9014-6a44e5918212.png">
+<img width="388" alt="Screen Shot 2021-11-02 at 4 55 31 PM" src="https://user-images.githubusercontent.com/84426364/139952041-dbcbdf13-aaa3-43ac-a858-52c2eb648ffd.png">
+
+
+
 <br> Libraries used: NLTK, numpy, Pandas, Sklearn, matplotlib, Seaborn, Wordcloud
 
 <img width="388" alt="Screen Shot 2021-11-01 at 7 22 59 PM" src="https://user-images.githubusercontent.com/84426364/139754985-91fc09ee-4b1b-4cbc-929d-bbaf8950b2da.png">
