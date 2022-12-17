@@ -21,11 +21,11 @@ def score_sentiment(x):
     predictions -> whether the comment is positive, negative or neutral"""
 
     if x >= 0.05:
-        return "Positive text! You make this world a better place"
+        return "POSITIVE text! You make this world a better place"
     elif x <= -0.05:
-        return "Negative text! The world needs you to be positive"
+        return "NEGATIVE text! The world needs you to be positive"
     else:
-        return "Neutral! Your text has no emotion"
+        return "NEUTRAL text! Your text has no emotion"
 
 ## algorithms ##
 def predict(comment):
