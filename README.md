@@ -19,7 +19,7 @@ utilized NLTK, numpy, Pandas, Sklearn, matplotlib, Seaborn, Wordcloud to analyze
 
 UPDATED(Dec 2022): Come back to project and eager to turn model into web app.
 
-UPDATED(Dec 2022): utilizied streamlit to build a web app of text emotion detector and deploy onto streamlit cloud.
+UPDATED(Dec 2022): utilized streamlit to build a web app of text emotion detector and deploy onto streamlit cloud.
 
 For ML algorithm, I used Vader to perform sentiment analysis. Because Vader is a lexicon(dictionary of sentiment), I can assess the sentiment of phrases and sentences without the need to look at anything. Next, I can identify emotion behind text even when comments are not label as positive, negative, or neutral. Not only that Vader algorithm does not need a dataset to train on.
 
