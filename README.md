@@ -27,12 +27,9 @@ For ML algorithm, I used Vader to perform sentiment analysis. Because Vader is a
 Learning about sentiment analysis, how to use YouTube API, and documentation on how to build webapp. I find myself reading tons of other blogs and documentation in order to adapt examples to my own use case.
 
 <h2>Result</h2>
-Data analysis on 3Blue1Brown's videos and 2020 Presidential Debate
-<img width="288" alt="Screen Shot 2021-11-02 at 4 56 01 PM" src="https://user-images.githubusercontent.com/84426364/139952010-e16b8d0d-24c4-484f-9014-6a44e5918212.png">
-
-<img width="288" alt="Screen Shot 2021-11-02 at 4 55 31 PM" src="https://user-images.githubusercontent.com/84426364/139952041-dbcbdf13-aaa3-43ac-a858-52c2eb648ffd.png">
 
 Web APP
+
 <img src="https://user-images.githubusercontent.com/84426364/208281878-2fb8320e-7811-44d9-9649-df5355eedc6b.png">
 
 
