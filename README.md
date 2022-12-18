@@ -7,9 +7,9 @@ Link to WEB APP: https://weibb123-unsupervised-sentiment-analysis-on-youtube-app
 Detect emotions behind users text specifically social media text such as (emojis, :), :(, lol, etc)...
 
 <h2>Backstory</h2>
-As someone who first tries to break into the field of Natural Language Processing, I was astonished by how ML algorithms can detect emotions behind text messages. I
+As someone who first tries to break into the field of Natural Language Processing, I was astonished by how ML algorithms can detect emotions behind text messages. 
 
-turn to Youtube and decide to analyze comments in 3Blue1Brown's(one of my favorite math educator) video. Next, I want to use ML algorithm to predict whether a text gives positive,negative, or neutral emotions.
+I turn to Youtube and decide to analyze comments in 3Blue1Brown's(one of my favorite math educator) video. Next, I want to use ML algorithm to predict whether a text gives positive,negative, or neutral emotions.
 
 <h2>Methods</h2>
 Thankfully with Youtube API, I can extract comments from any videos that I desire.
